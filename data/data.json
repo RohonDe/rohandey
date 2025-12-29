@@ -1,0 +1,150 @@
+{
+  "personal": {
+    "name": "Rohon Dey",
+    "role": "Web Developer (Beginner) | Freelancer",
+    "email": "rdtechnology0@gmail.com",
+    "phone": "+91 7980532483",
+    "location": "Kolkata, West Bengal",
+    "summary": "Motivated beginner web developer with hands-on experience in HTML, CSS, and PHP. Strong background in client communication through customer-facing roles. Passionate about building clean, responsive, and secure websites while continuously learning modern web technologies and improving problem-solving skills."
+  },
+
+  "profile": {
+    "photo": "uploads/profile.png"
+  },
+
+  "resume": "uploads/resume.pdf",
+
+  "highlights": [
+    "Hands-on experience building and maintaining small websites",
+    "Strong communication skills from professional telecalling experience",
+    "Focused on responsive design for mobile and desktop",
+    "Basic understanding of website security and safe coding practices",
+    "Quick learner with strong attention to detail"
+  ],
+
+  "skills": [
+    "HTML5 – semantic layout and structure",
+    "CSS3 – responsive layouts, Flexbox, Grid",
+    "JavaScript – basic DOM interaction",
+    "PHP – form handling, basic backend logic",
+    "Responsive Web Design",
+    "Basic Website Security (SSL, input safety)",
+    "Bug fixing and UI improvements"
+  ],
+
+  "services": [
+    {
+      "title": "Website Development",
+      "desc": "Designing and developing clean, responsive websites using HTML, CSS, and PHP, optimized for both desktop and mobile devices."
+    },
+    {
+      "title": "Bug Fixing & UI Improvements",
+      "desc": "Fixing layout issues, broken pages, responsiveness problems, and improving the overall user experience."
+    },
+    {
+      "title": "Basic Website Security",
+      "desc": "Implementing SSL, basic input validation, and safe coding practices to improve website security."
+    }
+  ],
+
+  "education": [
+    {
+      "school": "Khanpur Hirendra Lal Sarkar High School",
+      "qualification": "Secondary Education (Class 10)",
+      "period": "2019 – 2020",
+      "details": [
+        "Completed secondary education under the West Bengal Board",
+        "Developed interest in computers and web technologies",
+        "Focused on self-learning and practical technical skills"
+      ]
+    },
+    {
+      "school": "Khanpur Hirendra Lal Sarkar High School",
+      "qualification": "Primary & Middle School (Class 1–8)",
+      "period": "2010 – 2018",
+      "details": [
+        "Built strong academic fundamentals",
+        "Participated in school activities and teamwork",
+        "Developed discipline, communication, and time management skills"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Telecaller",
+      "company": "Technopolis",
+      "location": "Kolkata",
+      "period": "May 2020 – December 2020",
+      "details": [
+        "Handled inbound and outbound customer calls professionally",
+        "Explained products and services clearly to customers",
+        "Resolved customer queries and complaints efficiently",
+        "Maintained accurate call records and daily reports",
+        "Achieved daily call targets and performance goals"
+      ]
+    },
+    {
+      "role": "Freelance Web Developer",
+      "company": "Self-Employed",
+      "location": "Remote",
+      "period": "2023 – Present",
+      "details": [
+        "Designed and developed small websites using HTML, CSS, and PHP",
+        "Fixed bugs and improved UI for existing websites",
+        "Implemented responsive layouts for mobile devices",
+        "Worked directly with clients to understand basic requirements",
+        "Continuously learning new tools and improving coding skills"
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "name": "English",
+      "level": "Basic",
+      "details": "Able to read, write, and understand basic professional communication such as emails and documentation."
+    },
+    {
+      "name": "Hindi",
+      "level": "Fluent",
+      "details": "Fluent in speaking and understanding Hindi for daily and professional communication."
+    },
+    {
+      "name": "Bengali",
+      "level": "Native",
+      "details": "Native language with strong speaking, reading, and writing skills."
+    }
+  ],
+
+  "interests": [
+    {
+      "title": "FPS Gaming (Valorant & CS2)",
+      "details": "Improves focus, reaction time, teamwork, communication, and strategic thinking."
+    },
+    {
+      "title": "Learning Web Technologies",
+      "details": "Interested in improving web development skills, UI/UX design, and security knowledge."
+    }
+  ],
+
+  "faq": [
+    {
+      "q": "Are you available for freelance work?",
+      "a": "Yes, I am available for freelance and part-time projects."
+    },
+    {
+      "q": "Do you work remotely?",
+      "a": "Yes, I work remotely and communicate online."
+    },
+    {
+      "q": "Which technologies are you currently learning?",
+      "a": "I am improving my PHP, JavaScript, and modern CSS skills."
+    }
+  ],
+
+  "footer": {
+    "tagline": "Building clean, responsive, and secure web solutions.",
+    "note": "All information provided above is accurate and based on my real education and experience."
+  }
+}
